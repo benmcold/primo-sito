@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <link rel="stylesheet" href="buttonSetting.css" type="text/css">
+    <link rel="stylesheet" href="PageVisual.css" type="text/css">
+    <title>
+        prima pagina
+    </title>
+    <style>    
+        body{background-color: rgba(230, 206, 146, 0.982);}
+    </style>
+</head>
+    <body>
+            <button>area personale</button>
+          
+          <button>bottone</button>
+    </body>
+</html>
