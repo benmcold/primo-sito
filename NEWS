@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <title>prima pagina</title>
+    <link rel="stylesheet" href="styles.css" >
+    <style>
+    </style>
+</head>
+    <body>
+        <header>
+            <ul>
+                <li><a href="inizio.html"><img src="logo.png"  height="80" width="80"></a></li>
+                
+            </ul>
+        </header>
+            <nav>
+                <ul>
+                    <li class="secondarie"><a href="index.html" style="color: black">APPUNTI</a></li>
+                    <li class="secondarie"><a href="locations.html" style="color: black">MEET</a></li>
+                    <li class="marked"><h3><a href="contact.html" style="color: white">NEWS</a></h3></li>
+                </ul>
+            </nav>
+        <section class="bottoni-uno testa"> 
+            <div class="dropdown">
+                sasi1
+                <div class="dropdown-content">
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
+                </div>
+            </div>  
+            <div class="dropdown">
+                sasi2
+                <div class="dropdown-content">
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
+                </div>
+            </div>  
+            <div class="dropdown">
+                sasi3
+                <div class="dropdown-content">
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
+                </div>
+            </div> 
+        </section>
+    </body>
+</html>
