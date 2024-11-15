@@ -4,14 +4,33 @@ background-color: white;
 margin:0;
 padding:0;
 }
+
+header{
+    background: rgba(12, 27, 237, 0.66);
+    color: white;
+    border-radius: 12em;
+    padding:2%;
+    display:flex;
+} 
+header h1{
+    width:20;
+}
+
+header section{
+    margin: 23px 2px 2px 20px;
+    width:1%;
+    height: 5%;
+}
+
 section{
-background:none;
 color:black;
 height:30px;
 display:flex;
 border-bottom-width: 10px;
 border-color:brown;
 }
+
+
 div{
     margin: auto;
     background: red ;
@@ -33,25 +52,25 @@ ul{
 }
 li{
     display:inline-block;
-    margin: 20px;
+    margin-left: 9%;
 }
 
-header{
-    background: black;
+
+a{
+    text-decoration: none;
+}
+
+a:first-child{
+    margin-left: 1px;
+}
+
+nav {
+    background:white;
     padding: 5% 10%;
     color: white;
-}
+    display:flexbox;
+} 
 
-section div{
- background: red;
-}
-
-
-section button{
-background:black ;
-color: white;
-height:30px;
-}
 
 div.dropdown{
 background:black ;
@@ -59,6 +78,7 @@ color: white;
 height:30px;
 border-radius:12px 12px 12px 12px; 
 text-align-last:center;
+display:flow-root;
 }
 
 header section {
@@ -68,10 +88,6 @@ height:30px;
 display:flex;
 }
 
-section.bottoni-uno.testa{
-    border:solid;
-    border-radius:20px;
-}
 
 
 
@@ -107,4 +123,3 @@ section.bottoni-uno.testa{
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
