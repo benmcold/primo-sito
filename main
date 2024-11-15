@@ -3,42 +3,45 @@
 <head>
     <title>prima pagina</title>
     <link rel="stylesheet" href="styles.css" >
+    <style>
+    </style>
 </head>
     <body>
         <header>
-            <h1>MATTIA FELLA</h1>
-            <section>  <img src="Logo.webp" alt="immagine"></section>
+            <ul>
+            <li><a href="inizio.html"><img src="logo.png"  height="80" width="80"></a></li>        
+        </ul>
         </header>
             <nav>
                 <ul>
-                    <li><a href="index.html">MATTIA FELLA</a></li>
-                    <li><a href="locations.html">SASONA</a></li>
-                    <li><a href="contact.html">DVBEATRICE</a></li>
+                    <li class="marked"><h3><a href="index.html" style="color: white">APPUNTI</a></h3></li>
+                    <li class=secondarie><a href="locations.html" style="color: black">MEET</a></li>
+                    <li class="secondarie"><a href="contact.html" style="color: black">NEWS</a></li>
                 </ul>
             </nav>
         <section class="bottoni-uno testa"> 
             <div class="dropdown">
                 sasi1
                 <div class="dropdown-content">
-                    <a href="locations.html">SASONA</a>
-                    <a href="contact.html">CONTACTS</a>
-                    <a href="">MATTIA FELLA</a>
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
                 </div>
             </div>  
             <div class="dropdown">
                 sasi2
                 <div class="dropdown-content">
-                    <a href="locations.html">SASONA</a>
-                    <a href="contact.html">CONTACTS</a>
-                    <a href="">MATTIA FELLA</a>
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
                 </div>
             </div>  
             <div class="dropdown">
                 sasi3
                 <div class="dropdown-content">
-                    <a href="locations.html">SASONA</a>
-                    <a href="contact.html">CONTACTS</a>
-                    <a href="">MATTIA FELLA</a>
+                    <a href="locations.html">MEET</a>
+                    <a href="contact.html">NEWS</a>
+                    <a href="index.html">APPUNTI</a>
                 </div>
             </div> 
         </section>
