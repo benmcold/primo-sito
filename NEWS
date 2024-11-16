@@ -10,8 +10,11 @@
         <header>
             <ul>
                 <li><a href="inizio.html"><img src="logo.png"  height="80" width="80"></a></li>
-                
             </ul>
+            <div class="searchbar">
+                <input type="text" placeholder="Cerca..." spellcheck="false" maxlenght="40">
+                <button type="submit"><img src="lente.png" height="31" width="31"></button>
+            </div>
         </header>
             <nav>
                 <ul>
