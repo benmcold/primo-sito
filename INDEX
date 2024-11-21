@@ -3,6 +3,7 @@
 <head>
     <title>prima pagina</title>
     <link rel="stylesheet" href="styles.css" >
+    <link rel="stylesheet" href="../primoDB">
     <style>
     </style>
 </head>
@@ -11,6 +12,12 @@
             <ul>
             <li><a href="inizio.html"><img src="logo.png"  height="80" width="80"></a></li>        
         </ul>
+    
+        <div class="profilo">
+            <a href="profilo.html">
+                <img src="profilo.png" height = "80" width="80">
+            </a>
+        </div>
         <div class="searchbar">
             <input type="text" placeholder="Cerca..." spellcheck="false" maxlenght="40">
             <button type="submit"><img src="lente.png" height="31" width="31"></button>
@@ -25,29 +32,85 @@
             </nav>
         <section class="bottoni-uno testa"> 
             <div class="dropdown">
-                sasi1
+                I ANNO
                 <div class="dropdown-content">
-                    <a href="locations.html">MEET</a>
-                    <a href="contact.html">NEWS</a>
-                    <a href="index.html">APPUNTI</a>
+                    <a href="italiano.html">ITALIANO</a>
+                    <a href="matematica.html">MATEMATICA</a>
+                    <a href="fisica.html">FISICA</a>
+                    <a href="scienze.html">SCIENZE</a>
+                    <a href="geostoria.html">GEOSTORIA</a>
+                    <a href="arte.html">ARTE</a>
+                    <a href="informatica.html">INFORMATICA</a>
+                    <a href="inglese.html">INGLESE</a>
+                    <a href="latino.html">LATINO</a>
+                    <a href="motoria.html">MOTORIA</a>
                 </div>
             </div>  
             <div class="dropdown">
-                sasi2
+                II ANNO
                 <div class="dropdown-content">
-                    <a href="locations.html">MEET</a>
-                    <a href="contact.html">NEWS</a>
-                    <a href="index.html">APPUNTI</a>
+                    <a href="italiano.html">ITALIANO</a>
+                    <a href="matematica.html">MATEMATICA</a>
+                    <a href="fisica.html">FISICA</a>
+                    <a href="scienze.html">SCIENZE</a>
+                    <a href="geostoria.html">GEOSTORIA</a>
+                    <a href="filosofia.html">FILOSOFIA</a>
+                    <a href="arte.html">ARTE</a>
+                    <a href="informatica.html">INFORMATICA</a>
+                    <a href="inglese.html">INGLESE</a>
+                    <a href="latino.html">LATINO</a>
+                    <a href="motoria.html">MOTORIA</a>
                 </div>
             </div>  
             <div class="dropdown">
-                sasi3
+                III ANNO
                 <div class="dropdown-content">
-                    <a href="locations.html">MEET</a>
-                    <a href="contact.html">NEWS</a>
-                    <a href="index.html">APPUNTI</a>
+                    <a href="italiano.html">ITALIANO</a>
+                    <a href="matematica.html">MATEMATICA</a>
+                    <a href="fisica.html">FISICA</a>
+                    <a href="scienze.html">SCIENZE</a>
+                    <a href="storia.html">STORIA</a>
+                    <a href="filosofia.html">FILOSOFIA</a>
+                    <a href="arte.html">ARTE</a>
+                    <a href="informatica.html">INFORMATICA</a>
+                    <a href="inglese.html">INGLESE</a>
+                    <a href="latino.html">LATINO</a>
+                    <a href="motoria.html">MOTORIA</a>
+                </div>
+            </div> 
+            <div class="dropdown">
+                IV ANNO
+                <div class="dropdown-content">
+                    <a href="italiano.html">ITALIANO</a>
+                    <a href="matematica.html">MATEMATICA</a>
+                    <a href="fisica.html">FISICA</a>
+                    <a href="scienze.html">SCIENZE</a>
+                    <a href="storia.html">STORIA</a>
+                    <a href="filosofia.html">FILOSOFIA</a>
+                    <a href="arte.html">ARTE</a>
+                    <a href="informatica.html">INFORMATICA</a>
+                    <a href="inglese.html">INGLESE</a>
+                    <a href="latino.html">LATINO</a>
+                    <a href="motoria.html">MOTORIA</a>
+                </div>
+            </div> 
+            <div class="dropdown">
+                V ANNO
+                <div class="dropdown-content">
+                    <a href="italiano.html">ITALIANO</a>
+                    <a href="matematica.html">MATEMATICA</a>
+                    <a href="fisica.html">FISICA</a>
+                    <a href="scienze.html">SCIENZE</a>
+                    <a href="storia.html">STORIA</a>
+                    <a href="filosofia.html">FILOSOFIA</a>
+                    <a href="arte.html">ARTE</a>
+                    <a href="informatica.html">INFORMATICA</a>
+                    <a href="inglese.html">INGLESE</a>
+                    <a href="latino.html">LATINO</a>
+                    <a href="motoria.html">MOTORIA</a>
                 </div>
             </div> 
         </section>
+        <input type="text">
     </body>
 </html>
